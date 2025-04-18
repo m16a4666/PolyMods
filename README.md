@@ -14,13 +14,17 @@ This repository contains mods created for "Polytears" by LionN00b, and serves as
 3. Drag .dll files to `BepInEx/plugins/` (Same installation method for mods)  
 4. Open `BepInEx/config/BepInEx.cfg`
 5. Change the value next to `HideManagerGameObject` on line 17 to `true`
-6. Press <kbd>F1</kbd> in-game to verify configuration menu,it should looks like this
+6. ![image](https://github.com/m16a4666/PolyMods/blob/master/pic/CONFIG.jpg)
+7. Press <kbd>F1</kbd> in-game to verify configuration menu,it should looks like this
+8. ![image](https://github.com/m16a4666/PolyMods/blob/master/pic/VerifyInstall.jpg)
 
 ---
 
 ### **Mod Content (Updates when i have time)**  
 #### **More Cash and Ration** *(Uploaded: 2025.4.18)*  
 Adjusts the amount of Cash and Ration you obtain (currently global modification due to my poor programming lol)
+![image](https://github.com/m16a4666/PolyMods/blob/master/pic/MCNR1jpg)
+![image](https://github.com/m16a4666/PolyMods/blob/master/pic/MCNR2.jpg)
 
 ---
 
