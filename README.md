@@ -23,7 +23,7 @@ This repository contains mods created for "Polytears" by LionN00b, and serves as
 ### **Mod Content (Updates when i have time)**  
 #### **More Cash and Ration** *(Uploaded: 2025.4.18)*  
 Adjusts the amount of Cash and Ration you obtain (currently global modification due to my poor programming lol)
-![image](https://github.com/m16a4666/PolyMods/blob/master/pic/MCNR1jpg)
+![image](https://github.com/m16a4666/PolyMods/blob/master/pic/MCNR1.jpg)
 ![image](https://github.com/m16a4666/PolyMods/blob/master/pic/MCNR2.jpg)
 
 ---
