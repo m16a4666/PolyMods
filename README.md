@@ -18,17 +18,18 @@ This repository contains mods created for "Polytears" by LionN00b, and serves as
 
 ---
 
-### **Mod Content (Continuous Updates)**  
+### **Mod Content (Updates when i have time)**  
 #### **More Cash and Ration** *(Uploaded: 2025.4.18)*  
-Adjusts the amount of Cash and Ration you obtain (currently global modification due to code limitations)
+Adjusts the amount of Cash and Ration you obtain (currently global modification due to my poor programming lol)
 
 ---
 
 ### **How to Contribute**  
 You can help improve this project by:  
 - Submitting issues
-- Creating Pull Requests
+- Creating Pull Requests to improve the code
 - Giving a ⭐ to the project  
 
 Thank you for your support!  
+
 [Polytears Official Discord Server](https://discord.gg/SmgVbmX)
