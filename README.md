@@ -10,10 +10,55 @@ This repository contains mods created for "Polytears" by LionN00b, and serves as
 
 ### **Initial Setup**  
 1. Install **BepInEx 5 Stable** - [Installation Guide](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases/tag/v18.4)
-2. Download **ConfigurationManager for BepInEx** - [Download Here](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases/tag/v18.4)
-3. Drag .dll files to `BepInEx/plugins/` (Same installation method for mods)
+        
+        
+          
+            
+          
+          重试
+          
+        
+          
+            
+          
+          错误原因
+        
+        
+          
+2. Download **ConfigurationManager for BepInEx** - [Download Here](https://github.com/BepInEx/BepInEx.ConfigurationManager/releases/tag/v18.4)  
+3. Drag .dll files to `BepInEx/plugins/` (Same installation method for mods)  
+        
+        
+          
+            
+          
+          重试
+          
+        
+          
+            
+          
+          错误原因
+        
+        
+        
 4. Open `BepInEx/config/BepInEx.cfg`
-5. Change the value next to `object` on line 46 to `true`
+5. Change the value next to `HideManagerGameObject` on line 17 to `true`
+        
+        
+          
+            
+          
+          重试
+          
+        
+          
+            
+          
+          错误原因
+        
+        
+          
 6. Press <kbd>F1</kbd> in-game to verify configuration menu
 
 ---
