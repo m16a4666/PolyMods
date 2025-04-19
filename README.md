@@ -1,4 +1,4 @@
-# **⚠️ Warning(document no finish yet)**  
+# **⚠️ Warning**  
 **This mod may affect your game. We are not responsible for any game issues. Please note that English is not my native language, so there may be grammatical or expression errors.**
 
 ---
@@ -16,7 +16,7 @@ This repository contains mods created for "Polytears" by LionN00b, and serves as
 5. Change the value next to `HideManagerGameObject` on line 17 to `true`
 6. ![image](https://github.com/m16a4666/PolyMods/blob/master/pic/CONFIG.jpg)
 7. Press <kbd>F1</kbd> in-game to verify configuration menu,it should looks like this
-8. ![image](https://github.com/m16a4666/PolyMods/blob/master/pic/VerifyInstall.jpg)
+8. ![image](https://github.com/m16a4666/PolyMods/blob/master/pic/VerifyInstall.png)
 
 ---
 
